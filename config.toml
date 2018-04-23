@@ -1,0 +1,4 @@
+baseURL = "http://leonmak.me/"
+languageCode = "en-us"
+title = "Floating Boat"
+theme = "xmin"
